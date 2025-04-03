@@ -1,90 +1,124 @@
-![github-header-image](https://github.com/user-attachments/assets/cfed20ac-e8be-47ba-8dd8-9f62ae708a01)
+<!-- Fancy Header with Dynamic Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=250&section=header&text=Hamim%20Ifty&fontSize=80&fontColor=fff&animation=fadeIn" alt="Profile Header"/>
+</div>
 
-<h1 align="center">👋 Hi there, I'm <strong>Hamim Ifty</strong>!</h1>
+<div align="center">
+  <h2>🚀 Full-Stack Innovator | Web & Mobile Architect | Technology Alchemist 💻</h2>
+  
+  <p>
+    <a href="https://hamimifty.tech" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/hamimifty/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/hamim-ifty" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://hamimifty.tech">🌐 Portfolio</a> •
-  <a href="mailto:info@hamimifty.tech">📧 Email Me</a> •
-  <a href="https://www.linkedin.com/in/hamimifty/">🔗 LinkedIn</a> •
-  <a href="https://github.com/hamim-ifty">💻 GitHub</a>
+---
+
+## 🌟 About Me
+
+<img align="right" width="350" src="https://camo.githubusercontent.com/c1dcb3b32702deaf3aa3c4152077951b1c2aad9c4a531b1c6c935d68ad3690a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234372f6176612e676966" alt="Professional Coding GIF"/>
+
+I'm a **Digital Craftsman** transforming complex problems into elegant technological solutions. Currently pursuing my **Bachelor of Engineering in Information Technology** at **Oulu University of Applied Sciences (OAMK)** in 2025, I blend creativity with cutting-edge technology.
+
+### 🔬 Professional Snapshot
+- 🌐 **Senior Frontend Developer** at **Tone Advisor**
+- 💡 Specializing in **React**, **TypeScript**, **Android Development**
+- 🏆 Passionate about creating impactful, user-centric applications
+
+---
+
+## 💻 Technology Ecosystem
+
+### 🚀 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Python-Pro-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-Master-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### 🌐 Web Development Arsenal
+<p>
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Material UI-Expert-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/HTML5-Pro-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-Master-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin%20Mobile-Advanced-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Mobile"/>
+</p>
+
+### 💾 Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-Pro-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Azure-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
 
-### 💻 **About Me**
+## 📊 GitHub Performance
 
-I'm a passionate <span id="typed"></span> currently pursuing my **Bachelor of Engineering in Information Technology** at **Oulu University of Applied Sciences (OAMK)**. Previously, I completed my first year at **Centria University of Applied Sciences**.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamim-ifty&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-I specialize in creating **scalable, user-friendly, and high-performance applications** that solve real-world problems.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamim-ifty&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamim-ifty&theme=radical" alt="GitHub Streak" width="45%"/>
+</div>
 
----
-
-### 🚀 **Current Role & Projects**
-
-- **🎯 Frontend Developer** at **Tone Advisor**, developing dynamic, interactive web applications.
-- **🌐 Advanced Web Application Project:** Utilizing **React**, **TypeScript**, **PostgreSQL**, and **Material UI** to build powerful web solutions.
-
----
-
-### ⚙️ **My Tech Stack**
-
-**Programming Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-
-**Android Development**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
-**Databases**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Cloud & Networking**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-**Other Tools**  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=flat-square&logo=autocad&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamim-ifty&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</div>
 
 ---
 
-### 🎓 **Education**
+## 🎓 Academic Journey (2025)
 
-- 📚 **Bachelor of Engineering, Information Technology** *(Current)*  
-  **Oulu University of Applied Sciences (OAMK)**  
-- 📚 **Completed 1st Year** at **Centria University of Applied Sciences**
-
----
-
-### 💬 **Let's Connect**
-
-Feel free to reach out—I love collaborating and exchanging ideas!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hamimifty.tech-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://hamimifty.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamimifty/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white)](https://github.com/hamim-ifty)
-
-**📧 Email:** [info@hamimifty.tech](mailto:info@hamimifty.tech)
+- **Bachelor of Engineering, Information Technology**
+  - 🏫 Oulu University of Applied Sciences (OAMK)
+- **Previous Academic Achievement:** 
+  - Completed 1st Year at Centria University of Applied Sciences
 
 ---
 
-<p align="center">🚀 <i>Let’s build something amazing together!</i> 🚀</p>
+## 🌈 Professional Philosophy
 
-<!-- Typing Animation Script -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&width=435&lines=Web+%26+Android+Developer;Frontend+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</p>
+> "**Innovation is not about perfecting technology, but about empowering human potential through thoughtful design and creative problem-solving.**"
+
+---
+
+## 📬 Connect & Collaborate
+
+<div align="center">
+  <a href="mailto:info@hamimifty.tech">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://hamimifty.tech">
+    <img src="https://img.shields.io/badge/Personal%20Website-Visit-9146FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamim-ifty&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <p>🚀 Turning Code into Magic, One Commit at a Time! 🌟</p>
+</div>
+
+<!-- Dynamic Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=100&section=footer" alt="Footer"/>
+</div>
