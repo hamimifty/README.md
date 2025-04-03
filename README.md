@@ -2,8 +2,6 @@
 
 <h1 align="center">👋 Hi there, I'm <strong>Hamim Ifty</strong>!</h1>
 
-<h3 align="center">I'm a <span id="typing"></span></h3>
-
 <p align="center">
   <a href="https://hamimifty.tech">🌐 Portfolio</a> •
   <a href="mailto:info@hamimifty.tech">📧 Email Me</a> •
@@ -15,7 +13,7 @@
 
 ### 💻 **About Me**
 
-I'm currently pursuing my **Bachelor of Engineering in Information Technology** at **Oulu University of Applied Sciences (OAMK)**. Previously, I completed my first year at **Centria University of Applied Sciences**.
+I'm a passionate <span id="typed"></span> currently pursuing my **Bachelor of Engineering in Information Technology** at **Oulu University of Applied Sciences (OAMK)**. Previously, I completed my first year at **Centria University of Applied Sciences**.
 
 I specialize in creating **scalable, user-friendly, and high-performance applications** that solve real-world problems.
 
@@ -86,9 +84,7 @@ Feel free to reach out—I love collaborating and exchanging ideas!
 
 <p align="center">🚀 <i>Let’s build something amazing together!</i> 🚀</p>
 
----
-
-<!-- Typing animation (typed.js) -->
+<!-- Typing Animation Script -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Android+Developer;Web+%26+Android+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&width=435&lines=Web+%26+Android+Developer;Frontend+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
